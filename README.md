@@ -4,9 +4,6 @@
 - 🥅 Objectif 2021: Progresser tous en faisant des projets
 - ⚡ Mes passions : L'informatique et la musique
 
-<br />
-<br />
-
 ---
 
 ### Langages et outils utilisés:
