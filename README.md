@@ -2,7 +2,7 @@
 
 - 🌱 Je suis actuellement en 3ème année de licence informatique
 - 🥅 Objectif 2021: Progresser tous en faisant des projets
-- ⚡ Mes passions : L'informatique et la musique
+- ⚡ Mes passions : L'informatique, les nouvelles technologies et la musique
 
 ---
 
