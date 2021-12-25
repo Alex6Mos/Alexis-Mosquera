@@ -30,10 +30,3 @@
 
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: Activités GitHub récentes</summary>
-
-</details>
