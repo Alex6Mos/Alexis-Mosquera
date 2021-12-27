@@ -1,4 +1,4 @@
-## Salut tous le monde! Je m'appelle Alexis - aka Alex6Mos
+## Salut tous le monde! Je m'appelle Alexis Mosquera !
 
 - 🌱 Je suis actuellement en 3ème année de licence informatique
 - 🥅 Objectif 2021: Progresser tous en faisant des projets
