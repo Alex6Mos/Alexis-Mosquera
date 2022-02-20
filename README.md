@@ -1,7 +1,7 @@
 ## Salut tous le monde! Je m'appelle Alexis Mosquera !
 
 - 🌱 Je suis actuellement en 2ème année de licence informatique
-- 🥅 Objectif 2021: Progresser tous en faisant des projets
+- 🥅 Objectif 2022: Progresser tous en faisant des projets
 - 🚀 Mes passions : L'informatique, les nouvelles technologies et la musique
 
 ---
